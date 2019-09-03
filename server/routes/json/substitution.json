@@ -1,0 +1,136 @@
+{
+	"backupShowData": [
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/8 12:00:00",
+			"programmeFile": "番組表XXXX_20190608.xlsx",
+			"backupNumber": "00001",
+			"backupCreateTime": "2019/6/8 14:00:00",
+			"logicVersion": "v1.0.3",
+			"objectProgramName": "プロ野球「巨人」対「阪神」",
+			"backupScope": "18:00～23:00",
+			"comment": ""
+		},
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/7 12:00:00",
+			"programmeFile": "番組表プロ野球_20190607.xlsx",
+			"backupNumber": "00004",
+			"backupCreateTime": "2019/6/7 16:00:00",
+			"logicVersion": "v1.0.2",
+			"objectProgramName": "プロ野球「巨人」対「阪神」",
+			"backupScope": "18:00～21:15",
+			"comment": ""
+		},
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/7 12:00:00",
+			"programmeFile": "番組表プロ野球_20190607.xlsx",
+			"backupNumber": "00003",
+			"backupCreateTime":"2019 / 6 / 7 15: 00: 00 ",
+			"logicVersion": "v1.0.1",
+			"objectProgramName": "プロ野球「巨人」対「阪神」",
+			"backupScope": "18:00～21:15",
+			"comment": "ロジックのバージョン更新"
+		},
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/7 12:00:00",
+			"programmeFile": "番組表プロ野球_20190607.xlsx",
+			"backupNumber": "00002",
+			"backupCreateTime": "2019/6/7 14:00:00",
+			"logicVersion": "v1.0.0",
+			"objectProgramName": "プロ野球「巨人」対「阪神」",
+			"backupScope": "18:00～21:15",
+			"comment": "番組重み付け変更"
+		},
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/7 12:00:00",
+			"programmeFile": "番組表プロ野球_20190607.xlsx",
+			"backupNumber": "00001",
+			"backupCreateTime": "2019/6/7 13:00:00",
+			"logicVersion": "v1.0.1",
+			"objectProgramName": "プロ野球「巨人」対「阪神」",
+			"backupScope": "18:00～21:00",
+			"comment": ""
+		},
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/6 12:00:00",
+			"programmeFile": "番組表XXXX_20190606.xlsx",
+			"backupNumber": "00001",
+			"backupCreateTime": "2019/6/6 13:00:00",
+			"logicVersion": "v1.0.0",
+			"objectProgramName": "プロ野球「ロッテ」対「西武」",
+			"backupScope": "18:00～21:00",
+			"comment": ""
+		},
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/5 12:00:00",
+			"programmeFile": "番組表XXXX_20190605.xlsx",
+			"backupNumber": "00002",
+			"backupCreateTime": "2019/6/5 13:00:00",
+			"logicVersion": "v1.0.1",
+			"objectProgramName": "プロ野球「ロッテ」対「西武」",
+			"backupScope": "18:00～21:00",
+			"comment": "措置番組重み付け変更"
+		},
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/5 12:00:00",
+			"programmeFile": "番組表XXXX_20190605.xlsx",
+			"backupNumber": "00001",
+			"backupCreateTime": "2019/6/5 13:00:00",
+			"logicVersion": "v1.0.0",
+			"objectProgramName": "プロ野球「ロッテ」対「西武」",
+			"backupScope": "18:00～21:00",
+			"comment": ""
+		},
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/5 11:00:00",
+			"programmeFile": "XXXXXXXXX_BS1.xlsx",
+			"backupNumber": "00003",
+			"backupCreateTime": "2019/6/5 12:00:00",
+			"logicVersion": "v1.0.1",
+			"objectProgramName": "プロ野球「ロッテ」対「西武」",
+			"backupScope": "18:00～21:00",
+			"comment": "措置番組変更"
+		},
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/5 11:00:00",
+			"programmeFile": "XXXXXXXXX_BS1.xlsx",
+			"backupNumber": "00002",
+			"backupCreateTime": "2019/6/5 11:30:00",
+			"logicVersion": "v1.0.2",
+			"objectProgramName": "プロ野球「ロッテ」対「西武」",
+			"backupScope": "18:00～21:00",
+			"comment": ""
+		},
+
+		{
+			"choice": 0,
+			"inputTime": "2019/6/5 11:00:00",
+			"programmeFile": "XXXXXXXXX_20190605.xlsx",
+			"backupNumber": "00001",
+			"backupCreateTime": "2019/6/5 11:10:00",
+			"logicVersion": "v1.0.1",
+			"objectProgramName": "プロ野球「ロッテ」対「西武」",
+			"backupScope": "18:00～21:00",
+			"comment": ""
+		}
+	]
+}

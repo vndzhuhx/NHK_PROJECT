@@ -1,0 +1,319 @@
+{
+	"showCurrentData": [{
+			"earlyStartTime": "17:30",
+			"latestFinishTime": "20:30",
+			"playTime": "17:30-19:10",
+			"contentDuration": "100分",
+			"programName": "プロ野球「巨人」対「阪神」",
+			"programNumber": "1266-265"
+		},
+
+		{
+			"earlyStartTime": "20:30",
+			"latestFinishTime": "21:30",
+			"playTime": "20:30-21:10",
+			"contentDuration": "40分",
+			"programName": "GREAT RACEグレートレース",
+			"programNumber": "1988-009"
+		},
+
+		{
+			"earlyStartTime": "21:30",
+			"latestFinishTime": "22:00",
+			"playTime": "21:30-22:00",
+			"contentDuration": "40分",
+			"programName": "措置番組　番組X",
+			"programNumber": "2888-109"
+		},
+
+		{
+			"earlyStartTime": "22:00",
+			"latestFinishTime": "23:00",
+			"playTime": "22:00-23:00",
+			"contentDuration": "60分",
+			"programName": "欲望の資本主義",
+			"programNumber": "2988-376"
+		}
+	],
+
+	"showBackupData": [{
+			"backupNumber": "代案21",
+			"backup": [{
+					"playTime": "17:40-19:20",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:20-20:40",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				},
+				{
+					"playTime": "20:40-21:20",
+					"contentDuration": "40分",
+					"programName": "GREAT RACEグレートレース",
+					"programNumber": "1988-009"
+				},
+				{
+					"playTime": "21:20-22:20",
+					"contentDuration": "60分",
+					"programName": "欲望の資本主義",
+					"programNumber": "2988-376"
+				},
+				{
+					"playTime": "22:20 -23:00",
+					"contentDuration": "40分",
+					"programName": "ネッシーの真実",
+					"programNumber": "2988-378"
+				}
+			]
+		},
+
+		{
+			"backupNumber": "代案22",
+			"backup": [{
+					"playTime": "17:40-19:20",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:20-20:40",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				},
+				{
+					"playTime": "20:40-21:20",
+					"contentDuration": "40分",
+					"programName": "腐女子?うっかりゲイに告る",
+					"programNumber": "1988-109"
+				},
+				{
+					"playTime": "21:20-22:20",
+					"contentDuration": "60分",
+					"programName": "欲望の資本主義",
+					"programNumber": "2988-376"
+				},
+				{
+					"playTime": "22:20 -23:00",
+					"contentDuration": "40分",
+					"programName": "ネッシーの真実",
+					"programNumber": "2988-378"
+				}
+			]
+		},
+
+		{
+			"backupNumber": "代案23",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:50",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				},
+				{
+					"playTime": "20:50-21:30",
+					"contentDuration": "40分",
+					"programName": "GREAT RACEグレートレース",
+					"programNumber": "1988-009"
+				},
+				{
+					"playTime": "21:30-22:00",
+					"contentDuration": "60分",
+					"programName": "ニュース"
+				},
+				{
+					"playTime": "22:00-23:00",
+					"contentDuration": "60分",
+					"programName": "欲望の資本主義",
+					"programNumber": "2988-376"
+				}
+			]
+		},
+
+		{
+			"backupNumber": "代案24",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:50",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				},
+				{
+					"playTime": "20:50-21:30",
+					"contentDuration": "40分",
+					"programName": "措置番組　番組X",
+					"programNumber": "1988-009"
+				},
+				{
+					"playTime": "21:30-22:10",
+					"contentDuration": "40分",
+					"programName": "最後の恋をさがして"
+				},
+				{
+					"playTime": "22:10 -23:00",
+					"contentDuration": "50分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "1389-278"
+				}
+			]
+		},
+
+		{
+			"backupNumber": "代案25",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:50",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				},
+				{
+					"playTime": "20:50-21:30",
+					"contentDuration": "40分",
+					"programName": "GREAT RACEグレートレース",
+					"programNumber": "1988-009"
+				},
+				{
+					"playTime": "21:30-22:10",
+					"contentDuration": "40分",
+					"programName": "腐女子?うっかりゲイに告る"
+				},
+				{
+					"playTime": "22:10 -23:00",
+					"contentDuration": "50分",
+					"programName": "最後の恋をさがして"
+				}
+			]
+		},
+
+		{
+			"backupNumber": "代案26",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:10",
+					"contentDuration": "40分",
+					"programName": "GREAT RACEグレートレース",
+					"programNumber": "1988-009"
+				},
+				{
+					"playTime": "20:10-20:50",
+					"contentDuration": "40分",
+					"programName": "腐女子?うっかりゲイに告る",
+					"programNumber": "2888-109"
+				},
+				{
+					"playTime": "20:50-21:50",
+					"contentDuration": "60分",
+					"programName": "欲望の資本主義",
+					"programNumber": "2988-376"
+				},
+				{
+					"playTime": "21:50 -22:20",
+					"contentDuration": "30分",
+					"programName": "ニュース"
+				},
+				{
+					"playTime": "22:20 -23:00",
+					"contentDuration": "40分",
+					"programName": "ネッシーの真実",
+					"programNumber": "2988-378"
+				}
+			]
+		},
+
+		{
+			"backupNumber": "代案27",
+			"backup": [{
+					"playTime": "18:20-19:40",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:40-21:10",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				},
+				{
+					"playTime": "21:10-21:50",
+					"contentDuration": "40分",
+					"programName": "GREAT RACEグレートレース",
+					"programNumber": "1988-009"
+				},
+				{
+					"playTime": "21:50-22:20",
+					"contentDuration": "40分",
+					"programName": "腐女子?うっかりゲイに告る",
+					"programNumber": "2888-109"
+				},
+				{
+					"playTime": "22:20 -23:00",
+					"contentDuration": "40分",
+					"programName": "ネッシーの真実",
+					"programNumber": "2988-378"
+				}
+			]
+		},
+
+		{
+			"backupNumber": "代案28",
+			"backup": [{
+					"playTime": "18:20-19:40",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:40-21:10",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				},
+				{
+					"playTime": "21:10-22:10",
+					"contentDuration": "60分",
+					"programName": "欲望の資本主義",
+					"programNumber": "2988-376"
+				},
+				{
+					"playTime": "22:10-22:20",
+					"contentDuration": "10分",
+					"programName": "BS世界のドキュメンタリー"
+				},
+				{
+					"playTime": "22:20 -23:00",
+					"contentDuration": "40分",
+					"programName": "ネッシーの真実",
+					"programNumber": "2988-378"
+				}
+			]
+		}
+	]
+}

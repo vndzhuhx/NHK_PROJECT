@@ -1,0 +1,35 @@
+{
+	"showSubstituteData": [{
+			"chioce": 0,
+			"programName": "ピアノの森",
+			"enablePlayTime": "2019/01/01 10:00~",
+			"playRecommend": "20:00~",
+			"contentDuration": "00:10:00",
+			"media": "総合",
+			"priority": 1,
+			"play": "5/10"
+		},
+
+		{
+			"chioce": 0,
+			"programName": "BSニュース",
+			"enablePlayTime": "2019/07/01 10:00~2019/07/07 24:00",
+			"playRecommend": "20:00~23:00",
+			"contentDuration": "01:15:00",
+			"media": "総合012",
+			"priority": 1,
+			"play": "1/10"
+		},
+
+		{
+			"chioce": 0,
+			"programName": "NHKみんなの手話",
+			"enablePlayTime": "2019/01/01 10:00~2020/02/01 12:00",
+			"playRecommend": "20:00~23:00",
+			"contentDuration": "00:45:15",
+			"media": "Eテレ",
+			"priority": 3,
+			"play": "2/10"
+		}
+	]
+}

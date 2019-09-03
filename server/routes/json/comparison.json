@@ -1,0 +1,273 @@
+{
+	"showCurrentDataA": [{
+		"earlyStartTime": "17:30",
+		"latestFinishTime": "20:30",
+		"playTime": "17:30-19:10",
+		"contentDuration": "100分",
+		"programName": "プロ野球「巨人」対「阪神」",
+		"programNumber": "1266-265"
+	}],
+	"showBackupDataA": [{
+			"backupNumber": "代案21",
+			"backup": [{
+					"playTime": "17:40-19:20",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:20-20:40",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案22",
+			"backup": [{
+					"playTime": "17:40-19:20",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:20-20:40",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案23",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:50",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案24",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:50",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案25",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:50",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案26",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:10",
+					"contentDuration": "40分",
+					"programName": "GREAT RACEグレートレース",
+					"programNumber": "1988-009"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案27",
+			"backup": [{
+					"playTime": "18:20-19:40",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:40-21:10",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案28",
+			"backup": [{
+					"playTime": "18:20-19:40",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:40-21:10",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		}
+	],
+	"showCurrentDataB": [{
+		"earlyStartTime": "17:30",
+		"latestFinishTime": "20:30",
+		"playTime": "17:30-19:10",
+		"contentDuration": "100分",
+		"programName": "プロ野球「巨人」対「阪神」",
+		"programNumber": "1266-265"
+	}],
+	"showBackupDataB": [{
+			"backupNumber": "代案21",
+			"backup": [{
+					"playTime": "17:40-19:20",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:20-20:40",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案22",
+			"backup": [{
+					"playTime": "17:40-19:20",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:20-20:40",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案23",
+			"backup": [{
+					"playTime": "7:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:50",
+					"contentDuration": "80分",
+					"programName": "最後の恋をさがして"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案24",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:50",
+					"contentDuration": "80分",
+					"programName": "最後の恋をさがして"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案25",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:50",
+					"contentDuration": "80分",
+					"programName": "最後の恋をさがして"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案26",
+			"backup": [{
+					"playTime": "17:50-19:30",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:30-20:10",
+					"contentDuration": "40分",
+					"programName": "GREAT RACEグレートレース",
+					"programNumber": "1988-009"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案27",
+			"backup": [{
+					"playTime": "18:20-19:40",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:40-21:10",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		},
+		{
+			"backupNumber": "代案28",
+			"backup": [{
+					"playTime": "18:20-19:40",
+					"contentDuration": "100分",
+					"programName": "2019MLBザ?ベストプレー",
+					"programNumber": "1395-470"
+				},
+				{
+					"playTime": "19:40-21:10",
+					"contentDuration": "80分",
+					"programName": "まだ間に合う　「とと姉ちゃん」",
+					"programNumber": "2546-556"
+				}
+			]
+		}
+	]
+}

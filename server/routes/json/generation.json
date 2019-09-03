@@ -1,0 +1,84 @@
+{
+	"showCurrentData": [{
+			"startTime": "18:00",
+			"finishTime": "21:15",
+			"program": "プロ野球「巨人」対「阪神」",
+			"contentDuration": "03:15:00",
+			"priority": "",
+			"live": ""
+		},
+		{
+			"startTime": "21:15",
+			"finishTime": "21:25",
+			"program": "ニュース",
+			"contentDuration": "00:10:00",
+			"priority": 1,
+			"live": "Y"
+		},
+		{
+			"startTime": "21:25",
+			"finishTime": "21:30",
+			"program": "ニュース?気象",
+			"contentDuration": "00:05:00",
+			"priority": 1,
+			"live": ""
+		},
+		{
+			"startTime": "21:30",
+			"finishTime": "21:50",
+			"program": "まだ間に合う「とと姉ちゃん」",
+			"contentDuration": "00:20:00",
+			"priority": 2,
+			"live": ""
+		},
+		{
+			"startTime": "21:50",
+			"finishTime": "22:20",
+			"program": "サタデースポーツ",
+			"contentDuration": "00:30:00",
+			"priority": 2,
+			"live": ""
+		},
+		{
+			"startTime": "22:20",
+			"finishTime": "22:50",
+			"program": "バナナ ゼロミュージック",
+			"contentDuration": "00:30:00",
+			"priority": 3,
+			"live": ""
+		},
+		{
+			"startTime": "22:50",
+			"finishTime": "22:57",
+			"program": "ニュース?気象",
+			"contentDuration": "00:07:00",
+			"priority": 1,
+			"live": ""
+		},
+		{
+			"startTime": "22:57",
+			"finishTime": "23:00",
+			"program": "プレマップ",
+			"contentDuration": "00:03:00",
+			"priority": 2,
+			"live": ""
+		}
+	],
+	"basicCondition": {
+		"objectProgramName": "プロ野球「巨人」対「阪神」",
+		"earlyStartTime": "19:00",
+		"latestFinishTime": "21:50",
+		"unitTime": 10,
+		"backupScope": "18:00~21:20"
+	},
+	"createCondition": {
+		"formerPriority": 1,
+		"peeringFormerPriority": 0,
+		"substitutePriority": 0,
+		"peeringSubstitutePriority": 0
+	},
+	"autoCreate": {
+		"createVersion": "v1.0.0",
+		"comment": ""
+	}
+}
