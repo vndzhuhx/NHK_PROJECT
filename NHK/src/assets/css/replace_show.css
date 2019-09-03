@@ -1,0 +1,183 @@
+#page{
+  height:100%;
+  width:100%;
+}
+
+.header{
+  height:30px;
+  font-size:22px;
+  width:100%;
+}
+
+.header #p{
+  width:200px;
+  position:absolute;
+  left:80px;
+}
+
+.header #username{
+  width:200px;
+  position:absolute;
+  right:80px;
+}
+
+.search{
+  width:100%;
+  height:60px;
+}
+
+.search >>>.upload-demo{
+  position:relative;
+  width:300px;
+  top:90%;
+  left:3%;
+}
+
+.search >>>.button1{
+  width:220px;
+  position:relative;
+  left:-8px;
+  top:18px;
+  background-color:RGB(91,155,213);
+}
+
+.search >>>.el-input__inner{
+  width:300px;
+  height:40px;
+  position:relative;
+  top:43px;
+  left:-140px;
+}
+
+.search >>>.button2{
+  width:220px;
+  background-color:RGB(91,155,213);
+  color:white;
+  position:relative;
+  left:28%;
+  top:3px;
+}
+
+.search>>>.el-form-item__content{
+  width:600px;
+  left:25%;
+  margin:0px;
+}
+
+.el-table>>>.row{
+  background:RGB(91,155,213);
+  color:white;
+  text-align:center;
+}
+
+.pmlist{
+  position:relative;
+  top:80px;
+}
+
+.pmlist>>>.el-table{
+  position:relative;
+  left:5%;
+  top:0px;
+  border: 1px solid #758a99;
+  color:#000;
+}
+
+
+.el-table >>>.success-row{
+  background-color:white;
+}
+
+.el-table >>>.warning-row{
+  background:RGB(222,235,247);
+}
+
+.el-table>>>.el-checkbox__input{
+  position: relative;
+  left:100%;
+}
+
+.el-table>>>.el-checkbox__inner:hover {
+
+    border-color: black;
+
+}
+
+.el-table>>>.el-checkbox__inner{
+  border:1px solid #000;
+}
+
+.el-table>>>.el-checkbox__input.is-checked .el-checkbox__inner{
+  background-color: #000;
+  border: #000;
+}
+
+
+.button-group1{
+  position:relative;
+  top:100px;
+  width:100%;
+  height:80px;
+}
+
+.button-group1 >>>.button3{
+  width:220px;
+  color:white;
+  background-color:RGB(117,112,113);
+  position:relative;
+  right:16%;
+}
+
+.button-group1 >>>.button4{
+  width:220px;
+  color:white;
+  background-color:RGB(91,155,213);
+  position:relative;
+  left:16%;
+}
+
+.button-group1 >>>.button5{
+  width:220px;
+  color:white;
+  background-color:RGB(91,155,213);
+  position:relative;
+  left:16%;
+}
+
+.button-group1 >>>.button6{
+  width:220px;
+  color:white;
+  background-color:RGB(91,155,213);
+  position:relative;
+  left:16%;
+}
+
+.el-table >>>.el-checkbox__inner {
+  border-radius:50%;
+}
+
+.el-table >>>td,
+.el-table >>>th.is-leaf {
+        border: 1px solid RGB(112,149,183);
+}
+
+.el-checkbox>>>.el-checkbox__inner::after{
+    border: 1px solid #FFF;
+    border-left: 0;
+    border-top: 0;
+    height: 0px;
+    left: 0px;
+    position: absolute;
+    top: 1px;
+    transform: rotate(45deg) scaleY(0);
+    width: 3px;
+    -webkit-transition: -webkit-transform .15s ease-in .05s;
+    transition: transform .15s ease-in .05s,-webkit-transform .15s ease-in .05s;
+    transform-origin: center;
+
+}
+
+
+.upload-demo>>>.el-upload{
+  height:0px;
+}
